@@ -7,7 +7,7 @@ class Anagram
   end 
   
   def match(%w(test_words))
-    test_words.
+   # test_words.
   
   end 
   
