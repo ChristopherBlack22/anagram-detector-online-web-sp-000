@@ -6,7 +6,7 @@ class Anagram
     @word = word
   end 
   
-  def match(%w(test_words))
+  def match%w(test_words)
    # test_words.
   
   end 
